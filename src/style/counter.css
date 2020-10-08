@@ -1,0 +1,78 @@
+.counter{
+    background-color: #dddddd;
+    width: 1000px;
+    text-align: center;
+    margin-top: -16px;
+    margin-left: 260px;
+}
+
+.counter h1{
+    margin-top: -90px;
+}
+
+.counterBody{
+    border: 3px solid rgb(187, 175, 175);
+    width: 600px;
+    height: 600px;
+    margin-left: 200px;
+    background-color: rgb(234, 235, 255);
+}
+
+.myInput{
+    margin-top: 80px;
+}
+.myInput input{
+    width: 500px;
+    height: 40px;
+}
+
+.myOpera{
+    margin-top: 30px;
+}
+
+.myOpera button{
+    background-color: rgb(255,255,129);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.myNumber{
+    margin-top: 20px;
+}
+
+.myNumber button{
+    background-color: rgb(252,192,78);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+}
+
+#clearBtn{
+    background-color: rgb(252,190,254);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    color: white; 
+}
+
+#equalBtn{
+    background-color: rgb(255,128,129);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    color: white; 
+}
