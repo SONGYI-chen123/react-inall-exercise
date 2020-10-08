@@ -1,5 +1,5 @@
 import React from 'react';
-import './home.less';
+import '../style/home.css';
 import {Link} from "react-router-dom";
 import imgPath1 from '../images/calculator.png';
 import imgPath2 from '../images/timer.png';

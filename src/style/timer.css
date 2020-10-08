@@ -1,0 +1,54 @@
+.timer{
+    background-color: #dddddd;
+    width: 1000px;
+    text-align: center;
+    margin:auto;
+    margin-top: -16px;
+    margin-left: 260px;
+}
+
+.timer h1{
+    margin-top: -30px;
+}
+
+.leftDiv{
+    float: left;
+    margin-top: -30px;
+    margin-left: 80px;
+}
+
+.leftDiv p{
+    font-size: 25px;
+}
+
+.leftDiv p input{
+    height: 30px;
+}
+
+.leftDiv button{
+    background-color: rgb(0,174,237);
+    border: none;
+    height: 40px;
+    width: 280px;
+    color: white;
+    font-size: 20px;
+}
+
+.RightDiv{
+    margin-top: 80px;
+}
+
+#myLink1{
+    color: black;
+    margin-top: 240px;
+    margin-left: -730px;
+    clear: both;
+}
+
+#showInput{
+    font-size: larger;
+    background-color: #dddddd;
+    border: 1px solid black;
+    height: 100px;
+    width: 500px;
+}

@@ -1,0 +1,61 @@
+.home{
+    text-align: center;
+  }
+  
+  .mydiv {
+    margin: auto;
+    width: 1000px;
+    height: 400px;
+    background-image: url("../images/hero-image.png") ;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    opacity:0.6;
+    font-size: 48px;
+    color: white;
+  }
+  
+  .mydiv p{
+    margin-top:-18px;
+    padding-top: 150px;
+  }
+  
+  .mydiv1{
+    margin: auto;
+    background-color: #dddddd;
+    width: 1000px;
+    height:500px;
+  }
+  
+  .counter{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    float: left;
+    margin-left: 180px;
+  }
+  
+  .counter img{
+    width: 250px;
+  }
+  
+  .counter a{
+    color: white;
+    font-size: 30px;
+    display: block;
+  }
+  
+  .timer{
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .timer img{
+    width: 250px;
+  }
+  
+  .timer a{
+    color: white;
+    font-size: 30px;
+    display: block;
+  }
+  
+  
